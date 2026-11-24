@@ -1,0 +1,16 @@
+{
+  "name": "freebase-vscode-multi-instance-report",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Compare row counts and ID quality across two explicitly selected instances of any supported engine. No instance is created or copied.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/app.mjs",
+    "live": "node --env-file=.env src/app.mjs --live",
+    "test": "node --test"
+  }
+}

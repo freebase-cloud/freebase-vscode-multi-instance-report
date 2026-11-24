@@ -1,0 +1,5 @@
+{
+  "name": "freebase-vscode-multi-instance-report",
+  "kind": "cross-tool",
+  "tool": "multi"
+}

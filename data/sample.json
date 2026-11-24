@@ -1,0 +1,21 @@
+[
+  {
+    "label": "source",
+    "rows": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      }
+    ]
+  },
+  {
+    "label": "target",
+    "rows": [
+      {
+        "id": 1
+      }
+    ]
+  }
+]
